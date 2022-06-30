@@ -10,7 +10,7 @@
   "author": "garrett",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.0.0-beta.3.1",
+    "@parcel/transformer-sass": "^2.6.2",
     "parcel": "^2.0.0-beta.3.1"
   },
   "dependencies": {
